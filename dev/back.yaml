@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: tomcat
-        image: 2533266990732.dkr.ecr.us-east-2.amazonaws.com/staggy:latest
+        image: 970653867674.dkr.ecr.ap-south-1.amazonaws.com/backend-image:latest
         ports:
         - containerPort: 8080
 
